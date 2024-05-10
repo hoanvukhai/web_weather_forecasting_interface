@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/web_weather_forecasting_interface/static/css/main.d44c70c0.css",
+    "main.js": "/web_weather_forecasting_interface/static/js/main.3e077d7c.js",
+    "static/js/453.9761f570.chunk.js": "/web_weather_forecasting_interface/static/js/453.9761f570.chunk.js",
+    "static/media/NightSky2.jpeg": "/web_weather_forecasting_interface/static/media/NightSky2.fb0429605c31fa38d9f5.jpeg",
+    "static/media/splash-icon.svg": "/web_weather_forecasting_interface/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
+    "index.html": "/web_weather_forecasting_interface/index.html",
+    "main.d44c70c0.css.map": "/web_weather_forecasting_interface/static/css/main.d44c70c0.css.map",
+    "main.3e077d7c.js.map": "/web_weather_forecasting_interface/static/js/main.3e077d7c.js.map",
+    "453.9761f570.chunk.js.map": "/web_weather_forecasting_interface/static/js/453.9761f570.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d44c70c0.css",
+    "static/js/main.3e077d7c.js"
+  ]
+}

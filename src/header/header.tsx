@@ -1,6 +1,5 @@
 import React, {useState, useEffect} from "react";
 import logo from './logo_weather.png';
-import avatar from './Mona_Lisa.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUserTie } from '@fortawesome/free-solid-svg-icons';
 

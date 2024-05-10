@@ -23,7 +23,7 @@ const Search = ({ onCitySelect, setWeatherData, setForecastData}:SearchProps) =>
   
 
   const getSearchOptions = (value: string) => {
-    fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${value}&limit=5&appid=8a7c5f0be154320f7be5cdd94e638411`)
+    fetch(`https://api.openweathermap.org/geo/1.0/direct?q=${value}&limit=5&appid=8a7c5f0be154320f7be5cdd94e638411`)
       .then((res) => res.json())
       .then((data) => setOptions(data))
       .catch((error) => console.error('Lỗi khi lấy dữ liệu tìm kiếm:', error));
